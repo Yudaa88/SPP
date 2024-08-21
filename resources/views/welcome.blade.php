@@ -53,7 +53,9 @@
           <img src="storage/images/smk.png" alt="Dicoding Indonesia" />
         </div>
       </div>
-
+<div>
+  tes
+</div>
       {{-- <aside>
         <div class="social-media">
           <ul>
